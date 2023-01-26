@@ -1,1 +1,1 @@
-# Final-graduation-work
+## HSE Lyceum IT Projects - Day planner

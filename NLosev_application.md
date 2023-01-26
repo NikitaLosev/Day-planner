@@ -1,10 +1,10 @@
-#Никита Лосев - “Day planner”
+# Никита Лосев - “Day planner”
 
-###Группа: 10 - МИ - 3
+### Группа: 10 - МИ - 3
 
-###Электронная почта: nelosev@edu.hse.ru
+### Электронная почта: nelosev@edu.hse.ru
 
-###VK: https://vk.com/n.losev20xx
+### VK: https://vk.com/n.losev20xx
 
 **[ НАЗВАНИЕ ПРОЕКТА ]**
 
